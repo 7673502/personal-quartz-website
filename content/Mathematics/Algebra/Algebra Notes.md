@@ -1,0 +1,1 @@
+These notes were written by me (Pramod Anandarao) for the undergraduate algebra sequence at UW Madison.
